@@ -1,12 +1,12 @@
+/* eslint-disable strict */
 /* eslint-disable no-undef */
-/* eslint-disable no-redeclare */
 /* eslint-disable no-console */
+/* eslint-disable no-redeclare */
+
 'use strict';
 
-require('dotenv').config();
-
 const net = require('net');
-const PORT = process.env.PORT || 3001;
+const PORT = 3001;
 const server = net.createServer();
 
 let socketPool = {};

@@ -1,8 +1,5 @@
 /* eslint-disable no-empty-function */
-/* eslint-disable no-undef */
-/* eslint-disable no-console */
 /* eslint-disable strict */
-
 'use strict';
 
 const net = require('net');
