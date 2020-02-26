@@ -1,6 +1,6 @@
 # LAB - Class 17
 
-### Author: Qusai-Alhanaktah
+### Author: Ibrahim
 
 ### Links and Resources
 
